@@ -8,7 +8,10 @@ O protótipo funcionará com um segmento de senhas, como dito... seguindo uma or
 Se caso, o "player" acertar a senha, um led pisca na cor verde; e se errar, um led vermelho piscará, e resetará a senha.
 
 # [📷] Imagens
-**Montagem**
+**Montagem** <br>
+<img src="https://github.com/ViolinistaEstudante/projeto_livre_robotica/assets/132099734/6d9b4823-fe93-40c8-bbd2-19c55bc01b76">
+**Código** <br>
+<img scr"">
 
 
 
