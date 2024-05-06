@@ -13,6 +13,22 @@ Se caso, o "player" acertar a senha, um led pisca na cor verde; e se errar, um l
 **Código** <br>
 <img src="https://github.com/ViolinistaEstudante/projeto_livre_robotica/assets/132099734/6598cf72-3903-4ac2-bd2b-c215e3fae58d"> <br>
 
+# [💻] Vídeos
+**✅ | Acerto** <br>
+
+**⛔ | Erro** <br>
+
+
+
+
+
+
+
+
+
+
+
+
 # [📋] Agradecimentos e conclusão
 Contudo, essa matéria é inovadora para o itinerário de exatas! Agradeço a várias pessoas e órgãos públicos como:
 <ul>
