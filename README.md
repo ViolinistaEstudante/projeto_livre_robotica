@@ -20,7 +20,7 @@ https://github.com/ViolinistaEstudante/projeto_livre_robotica/assets/132099734/8
 https://github.com/ViolinistaEstudante/projeto_livre_robotica/assets/132099734/0585c9ab-5842-49da-bd7f-7914a74291f9 <br>
 
 # [📚] Materiais
-**Slides:** 🔒
+**Slides:** https://docs.google.com/presentation/d/1StgkhW5Vnd8EZIxusWDG6fQrwKlF_DerJlzuuo-ylII/edit?usp=sharing
 
 # [📋] Agradecimentos e conclusão
 Contudo, essa matéria é inovadora para o itinerário de exatas! Agradeço a várias pessoas e órgãos públicos como:
