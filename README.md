@@ -22,6 +22,22 @@ https://github.com/ViolinistaEstudante/projeto_livre_robotica/assets/132099734/0
 # [📚] Materiais
 **Slides:** https://docs.google.com/presentation/d/1StgkhW5Vnd8EZIxusWDG6fQrwKlF_DerJlzuuo-ylII/edit?usp=sharing
 
+# [🛫] Metas
+<ul>
+  <li>
+    Fazer montagem do arduino;
+  </li>
+   <li>
+    Fazer a codificação;
+  </li>
+   <li>
+    Testar os dois;
+  </li>
+   <li>
+    Testar se o projeto funciona perfeitamente;
+  </li>
+</ul>
+
 # [📋] Agradecimentos e conclusão
 Contudo, essa matéria é inovadora para o itinerário de exatas! Agradeço a várias pessoas e órgãos públicos como:
 <ul>
