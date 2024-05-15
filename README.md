@@ -42,7 +42,7 @@ https://github.com/ViolinistaEstudante/projeto_livre_robotica/assets/132099734/0
 Contudo, essa matéria é inovadora para o itinerário de exatas! Agradeço a várias pessoas e órgãos públicos como:
 <ul>
   <li>
-    Prof° Paulo Moreira - Professora de física l (robótica);
+    Prof° Paulo Moreira - Professor de física l (robótica);
   </li>
     <li>
     Profª Direne, Profª Silvia - Coordenação e diretoria;
